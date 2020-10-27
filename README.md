@@ -9,29 +9,29 @@ My name is João Magalhães. I'm from Portugal, currently with 19y, living in Li
 
 ## 🔧 Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=faf450)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=faf450)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=faf450)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=faf450)
+![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=red)
 
 
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jozdev/jozdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozdev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=e0db48&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozdev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=red&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/jozdev/jozdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jozdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=e0db48&bg_color=1d1f21" alt="jozdev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jozdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=red&bg_color=1d1f21" alt="jozdev's GitHub Stats" />
 </a>
 
 <a href="https://github.com/jozdev/codebetter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=codebetter&title_color=ffffff&text_color=c9cacc&icon_color=e0db48&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=codebetter&title_color=ffffff&text_color=c9cacc&icon_color=red&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/jozdev/orangeanime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=orangeanime&title_color=ffffff&text_color=c9cacc&icon_color=e0db48&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=orangeanime&title_color=ffffff&text_color=c9cacc&icon_color=red&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
