@@ -27,17 +27,17 @@ My name is João Magalhães. I'm from Portugal, currently with 19y, living in Li
 <a href="https://github.com/jozdev/jozdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozdev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/jozdev/jozdev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jozdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="jozdev's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/jozdev/codebetter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=codebetter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/jozdev/orangeanime">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=orangeanime&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
@@ -56,9 +56,8 @@ My name is João Magalhães. I'm from Portugal, currently with 19y, living in Li
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/
+[2]: https://github.com/jozdev
 
 
 <!-- Resources -->
