@@ -4,7 +4,7 @@
 
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is João Magalhães. I'm from Portugal, currently with 19y, living in Lisbon and currently studying computer engineering. 
+My name is João Magalhães. I'm from Portugal, 19y, living in Lisbon and currently studying computer engineering. 
 
 
 ## 🔧 Technologies
