@@ -4,7 +4,7 @@
 
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is João Magalhães. I'm from Portugal, 19y, living in Lisbon and studying computer engineering. <br>
+My name is João Magalhães, 19y. I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> Portugal,living in Lisbon and studying computer engineering. <br>
 Currently working on some private projects together with [LastMalware](https://github.com/LastMalware)
 
 
@@ -17,9 +17,11 @@ Currently working on some private projects together with [LastMalware](https://g
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=red)
-![](https://img.shields.io/badge/Framework-AJAX-informational?style=flat&logo=ajax&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Framework-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=red)
+![](https://img.shields.io/badge/Environment-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=red)
 
 
 
