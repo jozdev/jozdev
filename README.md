@@ -4,7 +4,7 @@
 
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is João Magalhães, 19y. I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> Portugal,living in Lisbon and studying computer engineering. <br>
+My name is João Magalhães, 19y. I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Lisbon, Portugal</b> and right now i'm studying computer engineering. <br>
 Currently working on some private projects together with [LastMalware](https://github.com/LastMalware)
 
 
@@ -43,26 +43,6 @@ Currently working on some private projects together with [LastMalware](https://g
 <a href="https://github.com/jozdev/animecrawlerapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=animecrawlerapi&title_color=ffffff&text_color=c9cacc&icon_color=db3939&bg_color=1d1f21" />
 </a>   
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[2.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 
-<!-- links to your social media accounts -->
 
-[3]: https://github.com/jozdev
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
