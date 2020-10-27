@@ -17,7 +17,7 @@
 
 My name is João Magalhães, 19y. I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Lisbon, Portugal</b> and right now i'm studying computer engineering. <br>
 - 💻 Currently working on some private projects with [LastMalware](https://github.com/LastMalware)
-
+- 📜 Deep learning python automation and scraping.
 
 ## 🔧 Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=red)
