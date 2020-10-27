@@ -7,8 +7,7 @@
 <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/pacificuuuh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/yxllvw"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white&style=for-the-badge"></a>
 <a href=""><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
 
 
