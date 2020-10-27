@@ -13,11 +13,11 @@ My name is João Magalhães. I'm from Portugal, currently with 19y, living in Li
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-AJAX-informational?style=flat&logo=ajax&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-CherryPy-informational?style=flat&logo=cherrypy&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-AJAX-informational?style=flat&logo=ajax&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-CherryPy-informational?style=flat&logo=cherrypy&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=red)
 
 
 
