@@ -14,7 +14,7 @@ My name is João Magalhães. I'm from Portugal, currently with 19y, living in Li
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Framework-AJAX-informational?style=flat&logo=ajax&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Framework-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=red)
