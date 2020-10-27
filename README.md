@@ -4,7 +4,7 @@
 
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is João Magalhães. I'm from Portugal, 19y, living in Lisbon and studying computer engineering. 
+My name is João Magalhães. I'm from Portugal, 19y, living in Lisbon and studying computer engineering. <br>
 Currently working on some private projects together with [LastMalware](https://github.com/LastMalware)
 
 
