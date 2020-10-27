@@ -2,10 +2,16 @@
 
 [![Header](https://raw.githubusercontent.com/jozdev/jozdev/main/header.png "Header")](https://github.com/jozdev/)
 
+<a href="https://twitter.com/YellowisCutie"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/pacificuuuh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/yxllvw"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is João Magalhães, 19y. I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Lisbon, Portugal</b> and right now i'm studying computer engineering. <br>
-Currently working on some private projects together with [LastMalware](https://github.com/LastMalware)
+- 💻 Currently working on some private projects with [LastMalware](https://github.com/LastMalware)
 
 
 ## 🔧 Technologies
