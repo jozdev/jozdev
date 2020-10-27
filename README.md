@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/jozdev/jozdev/main/header.png "Header")](https://github.com/jozdev/)
+[![Header](https://raw.githubusercontent.com/jozdev/jozdev/main/banner2.png "Header")](https://github.com/jozdev/)
 
 <a href="https://twitter.com/YellowisCutie"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
