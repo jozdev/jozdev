@@ -54,8 +54,8 @@ My name is João Magalhães, 19y. I'm from <img src="https://image.flaticon.com/
 <a href="https://github.com/jozdev/trackercovid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=instagramautomation&title_color=ffffff&text_color=c9cacc&icon_color=db3939&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/jozdev/animecradwlerapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jozdev&repo=animecrawlerapi&title_color=ffffff&text_color=c9cacc&icon_color=db3939&bg_color=1d1f21" />
+<a href="https://github.com/jozdev/animecrawlerapi">
+ 
 </a>   
 
 
