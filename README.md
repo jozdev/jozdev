@@ -17,7 +17,7 @@
 
 My name is João Magalhães, 20y. I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Lisbon, Portugal</b> and right now i'm studying computer engineering. <br>
 
-![](https://komarev.com/ghpvc/?username=jozdev)
+![](https://komarev.com/ghpvc/?username=jozdev&color=red)
 
 ## 🔧 Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=red)
