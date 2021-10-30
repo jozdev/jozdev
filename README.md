@@ -11,7 +11,7 @@ jozdev@github
        OS  :  macOS Big Sur
     Shell  :  zsh 5.8
  Terminal  :  default
-      CPU  :  intel core i9 2.3GHz 8-Core
+      CPU  :  intel core i5 2.6 GHz
 Languages  :  Python, Javascript, PHP
   Discord  :  aebo#3673
 ```
@@ -31,9 +31,7 @@ class jozdev(ReadMe):
 
     def __init__(self):
         self.username = "jozdev"
-        self.contacts = {
-            "Discord": "aebo#3673",
-        }
+        
         self.alises = [
             "jozdev",
             "aebo",
@@ -42,7 +40,6 @@ class jozdev(ReadMe):
         self.location = "Portugal"
         self.age = "20, Born 04 May 2001"
         self.occupation = "Cibersecurity Student"
-        self.operating_system = "Ubuntu, Linux"
 ```
 
 
