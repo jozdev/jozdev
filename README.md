@@ -21,22 +21,16 @@ Languages  :  Python, Javascript, PHP
 > nano readme.py
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/bf/73/9a/bf739a24dcbf076d6106373da976794c.jpg" alt="logo.png" width="300" height="300"  /> 
+<img align="left" src="https://i.pinimg.com/736x/bf/73/9a/bf739a24dcbf076d6106373da976794c.jpg" alt="logo.png" width="250" height="250"  /> 
 
 ```py
-from GitHub import readme
+from gitHub import readme
 
 class jozdev(readme):
     "/jozdev/jozdev/README.md"
 
     def __init__(self):
         self.username = "jozdev"
-        
-        self.alises = [
-            "jozdev",
-            "aebo",
-            "yellow"
-        ]
         self.location = "Portugal"
         self.age = "20, Born 04 May 2001"
         self.occupation = "Cybersecurity Student"
