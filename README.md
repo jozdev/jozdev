@@ -46,4 +46,4 @@ class jozdev(readme):
 ---
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jozdev&style=flat-square" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wj2k9mnpz8rif2wbjycvxginb&cover_image=true&theme=novatorem&bar_color=474847&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wj2k9mnpz8rif2wbjycvxginb&redirect=true)
