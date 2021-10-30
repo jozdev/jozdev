@@ -11,7 +11,7 @@ jozdev@github
        OS  :  macOS Big Sur
     Shell  :  zsh 5.8
  Terminal  :  default
-      CPU  :  intel core i5 9600k
+      CPU  :  9th-gen, 2.3GHz 8-Core
 Languages  :  Python, Javascript, PHP
   Discord  :  aebo#3673
 ```
@@ -28,4 +28,4 @@ Languages  :  Python, Javascript, PHP
 ---
 
 ![](https://komarev.com/ghpvc/?username=jozdev&style=flat-square)
-<p style="font-size: 6px">README inspired by <a href="https://github.com/5R33CH4/5R33CH4/blob/main/README.md">sreecha</a></p>
+<p style="font-size: 6px">README inspired by sreecha & dropout</p>
