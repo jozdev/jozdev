@@ -21,7 +21,7 @@ Languages  :  Python, Javascript, PHP
 > nano readme.py
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/bf/73/9a/bf739a24dcbf076d6106373da976794c.jpg" alt="logo.png" width="180" height="180"  /> 
+<img align="left" src="https://i.pinimg.com/736x/40/99/e0/4099e0b01f6ce1facfae2c8c2cb3b931.jpg" alt="logo.png" width="180" height="180"  /> 
 
 ```py
 from gitHub import readme
