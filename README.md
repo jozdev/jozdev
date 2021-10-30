@@ -18,7 +18,7 @@ Languages  :  Python, Javascript, PHP
 
 
 ```zsh
-> touch readme.py
+> nano readme.py
 ```
 
 <img align="left" src="https://i.pinimg.com/736x/bf/73/9a/bf739a24dcbf076d6106373da976794c.jpg" alt="logo.png" width="300" height="300"  /> 
