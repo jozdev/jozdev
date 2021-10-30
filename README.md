@@ -21,7 +21,7 @@ Languages  :  Python, Javascript, PHP
 > touch readme.py
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/73/19/8b/73198b2ae41af4f254cec9e6a237a9d2.jpg" alt="logo.png" width="300" height="300"  /> 
+<img align="left" src="https://i.pinimg.com/736x/bf/73/9a/bf739a24dcbf076d6106373da976794c.jpg" alt="logo.png" width="300" height="300"  /> 
 
 ```py
 from GitHub import ReadMe
