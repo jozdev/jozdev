@@ -2,7 +2,7 @@
 > fetch
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/fb/a6/20/fba62002393ad4e428f924ec7a7dee74.jpg" alt="logo.png" width="200" height="200" /> 
+<img align="left" src="https://i.pinimg.com/736x/fb/a6/20/fba62002393ad4e428f924ec7a7dee74.jpg" alt="logo.png" width="200" height="190" /> 
 
 ```csharp
 jozdev@github
