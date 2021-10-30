@@ -2,7 +2,7 @@
 > fetch
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/fb/a6/20/fba62002393ad4e428f924ec7a7dee74.jpg" alt="logo.png" width="200" height="200" /> 
+<img align="left" src="https://i.pinimg.com/736x/fb/a6/20/fba62002393ad4e428f924ec7a7dee74.jpg" alt="logo.png" width="200" /> 
 
 ```csharp
 jozdev@github
@@ -17,10 +17,10 @@ Languages  :  Python, Javascript, PHP
 ```
 
 ```zsh
-> fetch
+> touch readme.py
 ```
 
-<img align="left" src="https://i.pinimg.com/originals/cf/09/4a/cf094a11bb9a132191f31d77877c9297.jpg" alt="logo.png" width="200" height="350" style="  object-fit:contain;" /> 
+<img align="left" src="https://i.pinimg.com/originals/cf/09/4a/cf094a11bb9a132191f31d77877c9297.jpg" alt="logo.png" width="200"  /> 
 
 ```py
 from GitHub import ReadMe
