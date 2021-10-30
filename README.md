@@ -24,9 +24,9 @@ Languages  :  Python, Javascript, PHP
 <img align="left" src="https://i.pinimg.com/736x/bf/73/9a/bf739a24dcbf076d6106373da976794c.jpg" alt="logo.png" width="300" height="300"  /> 
 
 ```py
-from GitHub import ReadMe
+from GitHub import readme
 
-class jozdev(ReadMe):
+class jozdev(readme):
     "/jozdev/jozdev/README.md"
 
     def __init__(self):
