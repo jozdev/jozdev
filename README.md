@@ -47,6 +47,6 @@ class jozdev(ReadMe):
 
 
 ---
-<p align="center">
+<center>
 ![](https://komarev.com/ghpvc/?username=jozdev&style=flat-square)
-</p>
+
