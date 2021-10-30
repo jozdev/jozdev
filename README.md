@@ -15,6 +15,7 @@ jozdev@github
 Languages  :  Python, Javascript, PHP
   Discord  :  aebo#3673
 ```
+
 ```py
 from GitHub import ReadMe
 
@@ -41,4 +42,3 @@ class jozdev(ReadMe):
 ---
 
 ![](https://komarev.com/ghpvc/?username=jozdev&style=flat-square)
-<p style="font-size: 6px">README inspired by sreecha & dropout</p>
