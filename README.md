@@ -39,7 +39,7 @@ class jozdev(ReadMe):
         ]
         self.location = "Portugal"
         self.age = "20, Born 04 May 2001"
-        self.occupation = "Cibersecurity Student"
+        self.occupation = "Cybersecurity Student"
 ```
 
 
