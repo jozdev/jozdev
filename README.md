@@ -2,7 +2,7 @@
 > fetch
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/fb/a6/20/fba62002393ad4e428f924ec7a7dee74.jpg" alt="logo.png" width="200" height="100" /> 
+<img align="left" src="https://i.pinimg.com/736x/fb/a6/20/fba62002393ad4e428f924ec7a7dee74.jpg" alt="logo.png" width="200" height="175" /> 
 
 ```csharp
 jozdev@github
@@ -21,7 +21,7 @@ Languages  :  Python, Javascript, PHP
 > touch readme.py
 ```
 
-<img align="left" src="https://i.pinimg.com/originals/cf/09/4a/cf094a11bb9a132191f31d77877c9297.jpg" alt="logo.png" width="150"  /> 
+<img align="left" src="https://i.pinimg.com/originals/cf/09/4a/cf094a11bb9a132191f31d77877c9297.jpg" alt="logo.png" width="500" height="250"  /> 
 
 ```py
 from GitHub import ReadMe
