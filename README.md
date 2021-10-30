@@ -2,7 +2,7 @@
 > sw_vers
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/fb/a6/20/fba62002393ad4e428f924ec7a7dee74.jpg" alt="logo.png" width="180" height="180" /> 
+<img align="left" src="https://i.pinimg.com/736x/fb/a6/20/fba62002393ad4e428f924ec7a7dee74.jpg" alt="logo.png" width="200" height="200" /> 
 
 ```csharp
 jozdev@github
@@ -21,7 +21,7 @@ Languages  :  Python, Javascript, PHP
 > nano readme.py
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/bf/73/9a/bf739a24dcbf076d6106373da976794c.jpg" alt="logo.png" width="200" height="200"  /> 
+<img align="left" src="https://i.pinimg.com/736x/bf/73/9a/bf739a24dcbf076d6106373da976794c.jpg" alt="logo.png" width="180" height="180"  /> 
 
 ```py
 from gitHub import readme
