@@ -8,7 +8,6 @@ class jozdev(ReadMe):
         self.username = "jozdev"
         self.contacts = {
             "Discord": "aebo#3673",
-            "Telegram": None
         }
         self.alises = [
             "jozdev",
