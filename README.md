@@ -11,7 +11,7 @@ jozdev@github
        OS  :  macOS Big Sur
     Shell  :  zsh 5.8
  Terminal  :  default
-      CPU  :  intel core i5
+      CPU  :  intel core i5 9600k
 Languages  :  Python, Javascript, PHP
   Discord  :  aebo#3673
 ```
