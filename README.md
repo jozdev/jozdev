@@ -46,5 +46,5 @@ class jozdev(readme):
 </a>
 </p>
 <p align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/608853281552334880" width="180" height="120" />
+<img src="https://lanyard-profile-readme.vercel.app/api/608853281552334880" width="250" height="120" />
 </p>
