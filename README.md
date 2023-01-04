@@ -1,4 +1,3 @@
-<center><img src="https://tryhackme-badges.s3.amazonaws.com/jozdev.png" alt="TryHackMe"></center>
 ---
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jozdev&style=flat-square" /></p>
 <p align="center">
