@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2823&multiline=true&width=435&lines=Hi%2C+im+Jo%C3%A3o+Magalh%C3%A3es;and+im+a+Cibersecurity+Student)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DDDFF&multiline=true&width=435&lines=Hi%2C+im+Jo%C3%A3o+Magalh%C3%A3es;Im+a+Cibersecurity+Student" alt="Typing SVG" /></a>
+</p>
 
 ---
 <p align="center">
