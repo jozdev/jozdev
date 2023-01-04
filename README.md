@@ -1,5 +1,6 @@
 ---
 <p align="center">
+  <img src="https://github.com/jozdev/jozdev/blob/main/assets/thm_trophie.png">
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jozdev&style=flat-square" /></p>
